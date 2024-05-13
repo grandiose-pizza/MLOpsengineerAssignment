@@ -1,4 +1,4 @@
-# Senior MLOps Engineer Assignment
+# MLOps Engineer Assignment
 
 ## Overview
 This assignment is designed to test your skills in MLOps, including CI/CD pipelines, containerization with Docker, Kubernetes orchestration, machine learning model deployment, monitoring, logging, and cloud services. You will be given a mix of theoretical questions and practical tasks to complete within 24 hours using open-source tools.
